@@ -1,0 +1,25 @@
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rcheck/
+
+# RStudio
+*.Rproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Large data files (optional - depends on dataset size)
+# Uncomment if your dataset is >100MB or has sensitive info
+# data/raw/*.csv
+
+# Environment / credentials
+.env
+.Renviron
